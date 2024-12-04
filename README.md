@@ -55,6 +55,4 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AdityaKulkarni023&theme=transparent" alt="GitHub Streak" /></a>
 </div>
