@@ -56,8 +56,5 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Adityakulkarni023&theme=merko&hide_border=false" alt="streak stats" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Adityakulkarni023&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakulkarni023&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AdityaKulkarni023&theme=transparent" alt="GitHub Streak" /></a>
 </div>
