@@ -9,14 +9,13 @@
 <br/>
 
 <div align="center">
-    🔭 I’m currently working on **MERN stack projects**<br />
+ 🔭 I’m currently working on **MERN stack projects**
 
-    🌱 I’m currently learning **Redux, Firebase, and improving my MERN stack skills**<br />
+- 🌱 I’m currently learning **Redux, Firebase, and improving my MERN stack skills**
 
-    💬 Ask me about **React, JavaScript, MongoDB... or anything [here](https://github.com/Adityakulkarni023/Adityakulkarni023/issues)**<br />
+- 💬 Ask me about **React, JavaScript, MongoDB... or anything**
 
-    🎥 On my **YouTube channel**, I share:<br />
-    - **LinkedIn Tips** | **Internship Tips** | **Dev Resources** | **Interview Experiences**
+- ⚡YouTube channel **LinkedIn Tips** | Internship Tips| Dev Resources| Interview Experiences**
 </div>
 
 <div align="center"> 
