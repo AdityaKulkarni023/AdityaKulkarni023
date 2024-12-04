@@ -43,26 +43,3 @@
 </div>
 <br/>
 <hr/>
-<div align="center">
-  <h2>🌳 My Contribution Tree 🌳</h2>
-  <br>
-<br clear="both">
-
- 
-
-<img src="https://raw.githubusercontent.com/AdityaKulkarni023/AdityaKulkarni023/output/snake.svg" alt="Snake animation" />
-
- 
-
-###
-
- 
-
-<img src="https://raw.githubusercontent.com/AdityaKulkarni023/AdityaKulkarni023/output/snake.svg" alt="Snake animation" />  <p>Growing with every contribution 🌱</p>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdityaKulkarni023&theme=solarized-light)](https://git.io/streak-stats)<br/>
-</div>
