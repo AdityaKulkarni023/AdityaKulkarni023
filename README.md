@@ -11,11 +11,11 @@
 <div align="center">
  🔭 I’m currently working on **MERN stack projects**
 
-- 🌱 I’m currently learning **Redux, Firebase, and improving my MERN stack skills**
+🌱 I’m currently learning **Redux, Firebase, and improving my MERN stack skills**
 
-- 💬 Ask me about **React, JavaScript, MongoDB... or anything**
+ 💬 Ask me about **React, JavaScript, MongoDB... or anything**
 
-- ⚡YouTube channel **LinkedIn Tips** | Internship Tips| Dev Resources| Interview Experiences**
+ ⚡YouTube channel **LinkedIn Tips** | **Internship Tips**| **Dev Resources**| **Interview Experiences**
 </div>
 
 <div align="center"> 
