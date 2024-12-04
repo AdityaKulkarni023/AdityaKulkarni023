@@ -64,6 +64,5 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AdityaKulkarni023&theme=solarized-light" alt="GitHub Streak" /></a>
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdityaKulkarni023&theme=solarized-light)](https://git.io/streak-stats)<br/>
 </div>
