@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🌳 My Contribution Tree 🌳</h2>
   <br>
-<img src="https://raw.githubusercontent.com/AdityaKulkarni023/AdityaKulkarni023/output/snake.svg" alt="Snake animation" />  <br/><br/>
+<img src="https://raw.githubusercontent.com/AdityaKulkarni023/output/snake.svg" alt="Snake animation" />  <br/><br/>
   <p>Growing with every contribution 🌱</p>
 </div>
 
