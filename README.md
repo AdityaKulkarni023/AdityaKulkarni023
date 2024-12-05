@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on **MERN stack projects**
+🔭 I’m currently working on **MERN stack projects**
 
 🌱 I’m currently learning **Redux, Firebase, and improving my MERN stack skills**
 
