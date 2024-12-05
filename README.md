@@ -46,7 +46,7 @@
 <div align="center">
 <h2>🌳 My Contribution Tree 🌳</h2>
     <picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </div>
