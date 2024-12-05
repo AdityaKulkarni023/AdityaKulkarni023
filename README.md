@@ -67,5 +67,5 @@
 <h2 align="center"><b>⚡ Streak Story ⚡</b></h2>
 <br/>
 <div align="center">
-[![ProtoTech Solutions Interview Experience | Aditya Kulkarni | Fresher](https://ytcards.demolab.com/?id=6qyIfIXwPGo&title=ProtoTech+Solutions+Interview+Experience+%7C+Aditya+Kulkarni+%7C+Fresher&lang=en&timestamp=1693440000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=480 "ProtoTech Solutions Interview Experience | Aditya Kulkarni | Fresher")](https://youtu.be/6qyIfIXwPGo?si=87vwBvuHfhpqQ4OK)
+[![ProtoTech Solutions Interview Experience | Aditya Kulkarni | Fresher](https://ytcards.demolab.com/?id=6qyIfIXwPGo&title=ProtoTech+Solutions+Interview+Experience+%7C+Aditya+Kulkarni+%7C+Fresher&lang=en&timestamp=1696022400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=511 "ProtoTech Solutions Interview Experience | Aditya Kulkarni | Fresher")](https://youtu.be/6qyIfIXwPGo?si=87vwBvuHfhpqQ4OK)
 </div>
