@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Kulkarni!;" />
 </h1>
 
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center"><b>A passionate Frontend Developer from India</b></h3>
 
 <br/>
 
 <div align="center">
 🔭 I’m currently working on <b>MERN stack projects</b>
-
+<br>
 🌱 I’m currently learning **Redux, Firebase, and improving my MERN stack skills**
-
+<br>
  💬 Ask me about **React, JavaScript, MongoDB... or anything**
-
+<br>
  ⚡YouTube channel **LinkedIn Tips** | **Internship Tips**| **Dev Resources**| **Interview Experiences**
 </div>
 
@@ -35,7 +35,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"><b>⚒️ Languages-Frameworks-Tools ⚒️</b></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,npm" />
@@ -50,7 +50,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </div>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"><b>⚡ Streak Story ⚡</b></h2>
 <br/>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AdityaKulkarni023&theme=solarized-light" alt="GitHub Streak" /></a>
