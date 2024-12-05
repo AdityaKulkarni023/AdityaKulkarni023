@@ -14,9 +14,11 @@
 <br />
 🌱 I’m currently learning <b>Redux, Firebase, and improving my MERN stack skills</b>
 <br/>
+<br />
 
  💬 Ask me about <b>React</b>, <b>JavaScript</b>, <b>MongoDB</b>... or anything
 <br/>
+<br />
 
  ⚡YouTube channel <b>LinkedIn Tips</b> | <b>Internship Tips</b>| <b>Dev Resources</b>| <b>Interview Experiences</b>
 </div>
