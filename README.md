@@ -46,6 +46,7 @@
 </div>
 <br/>
 <hr/>
+
 <div align="center">
 <h2>🔥 <b>Igniting My GitHub Spark!</b>🔥</h2>
     <picture>
@@ -53,8 +54,10 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 </div>
+<hr/>
 <h2 align="center"><b>⚡ Streak Story ⚡</b></h2>
 <br/>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AdityaKulkarni023&theme=solarized-light" alt="GitHub Streak" /></a>
 </div>
+<hr/>
