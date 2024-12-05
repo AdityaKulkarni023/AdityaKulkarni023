@@ -63,5 +63,5 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AdityaKulkarni023&theme=solarized-light" alt="GitHub Streak" /></a>
 </div>
 <hr/>
-[![ProtoTech Solutions Interview Experience | Aditya Kulkarni | Fresher](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=ProtoTech+Solutions+Interview+Experience+%7C+Aditya+Kulkarni+%7C+Fresher&lang=en&timestamp=1693440000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=480 "ProtoTech Solutions Interview Experience | Aditya Kulkarni | Fresher")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
+[![ProtoTech Solutions Interview Experience | Aditya Kulkarni | Fresher](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
 
