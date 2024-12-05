@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Kulkarni!;" />
 </h1>
-<hr/>
+
 <h3 align="center"><b>A passionate Frontend Developer from India</b></h3>
 
 <br/>
@@ -11,7 +11,7 @@
 <div align="center">
 🔭 I’m currently working on <b>MERN stack projects</b>
 <br/>
-
+<br />
 🌱 I’m currently learning <b>Redux, Firebase, and improving my MERN stack skills</b>
 <br/>
 
