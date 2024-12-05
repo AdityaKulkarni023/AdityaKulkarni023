@@ -10,12 +10,15 @@
 
 <div align="center">
 🔭 I’m currently working on <b>MERN stack projects</b>
-<br>
-🌱 I’m currently learning **Redux, Firebase, and improving my MERN stack skills**
-<br>
- 💬 Ask me about **React, JavaScript, MongoDB... or anything**
-<br>
- ⚡YouTube channel **LinkedIn Tips** | **Internship Tips**| **Dev Resources**| **Interview Experiences**
+<br/>
+
+🌱 I’m currently learning <b>Redux, Firebase, and improving my MERN stack skills</b>
+<br/>
+
+ 💬 Ask me about <b>React</b>, <b>JavaScript</b>, <b>MongoDB</b>... or anything
+<br/>
+
+ ⚡YouTube channel <b>LinkedIn Tips</b> | <b>Internship Tips</b>| <b>Dev Resources</b>| <b>Interview Experiences</b>
 </div>
 
 <div align="center"> 
