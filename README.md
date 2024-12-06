@@ -59,7 +59,7 @@
 <hr/>
 <h2 align="center"><b>⚡ Streak Story ⚡</b></h2>
 <br/>
-<div align="center">
+<!-- <div align="center"> -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AdityaKulkarni023&theme=solarized-light)](https://git.io/streak-stats)</div>
 <hr/>
 <h2 align="center"><b> 💻 Featured YouTube Videos 🎥</b></h2>
