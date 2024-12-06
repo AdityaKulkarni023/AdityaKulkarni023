@@ -64,7 +64,7 @@
 <h2 align="center"><b>⚡ Streak Story ⚡</b></h2>
 <br/>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakulkarni023&" alt="adityakulkarni023" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakulkarni023& theme=solarized-light" alt="adityakulkarni023" /></p>
 </div>
 <h2 align="center"><b> 💻 Featured YouTube Videos 🎥</b></h2>
 <br/>
