@@ -63,7 +63,6 @@
 <hr/>
 <h2 align="center"><b>⚡ Streak Story ⚡</b></h2>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakulkarni023&show_icons=true&locale=en&layout=compact" alt="adityakulkarni023" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakulkarni023&show_icons=true&locale=en" alt="adityakulkarni023" /></p>
 
