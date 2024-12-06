@@ -66,10 +66,11 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakulkarni023&theme=cobalt" alt="adityakulkarni023" /></p>
 </div>
+<hr />
 <h2 align="center"><b> 💻 Featured YouTube Videos 🎥</b></h2>
 <br/>
 
-<p align="center">✨ Check out these exciting and informative videos on various tech topics! 🚀 From interview experiences to learning resources and web development tutorials, explore and enhance your knowledge. 💡</p>
+<p align="center">Check out these exciting and informative videos on various tech topics! 💻🚀 From interview experiences 🗂️ to learning resources 📚 and web development tutorials 🖥️, explore and enhance your knowledge. 💡</p>
 
 [![ProtoTech Solutions Interview Experience | CSE 2024 | Aditya Kulkarni | Fresher](https://ytcards.demolab.com/?id=6qyIfIXwPGo&title=ProtoTech+Solutions+Interview+Experience+%7C+CSE+2024+%7C+Aditya+Kulkarni+%7C+Fresher&lang=en&timestamp=1696022400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=511 "ProtoTech Solutions Interview Experience | CSE 2024 | Aditya Kulkarni | Fresher")](https://youtu.be/6qyIfIXwPGo?si=aAJqyWGOnG5EkPuZ)
 [![Best sites for Paper Publication 2023 | Aditya Kulkarni](https://ytcards.demolab.com/?id=oatsk4e7_M4&title=Best+sites+for+Paper+Publication+2023%7C+Aditya+Kulkarni&lang=en&timestamp=1673654400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480 "Best sites for Paper Publication 2023 | Aditya Kulkarni")](https://youtu.be/oatsk4e7_M4?si=qa2miBSsvwklFJVO)
