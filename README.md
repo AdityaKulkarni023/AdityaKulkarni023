@@ -60,8 +60,7 @@
 <h2 align="center"><b>⚡ Streak Story ⚡</b></h2>
 <br/>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AdityaKulkarni023&theme=solarized-light" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AdityaKulkarni023&theme=solarized-light)](https://git.io/streak-stats)</div>
 <hr/>
 <h2 align="center"><b> 💻 Featured YouTube Videos 🎥</b></h2>
 <br/>
