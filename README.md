@@ -63,8 +63,7 @@
 <hr/>
 <h2 align="center"><b>⚡ Streak Story ⚡</b></h2>
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AdityaKulkarni023&theme=solarized-light)](https://git.io/streak-stats)
-<hr/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKulkarni023 &&theme=tokyonight" alt="AdityaKulkarni" /></p><hr/>
 
 <h2 align="center"><b> 💻 Featured YouTube Videos 🎥</b></h2>
 <br/>
