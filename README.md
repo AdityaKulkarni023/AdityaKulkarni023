@@ -1,58 +1,89 @@
-# Aditya Kulkarni — GitHub Profile
 
-> Software Engineer • Frontend / Backend / Full Stack • Content Creator
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Adityakulkarni023.Adityakulkarni023" />
+<hr/>
 
-A self-contained animated GitHub profile built for GitHub README width. Every SVG is standalone: images and WOFF2 fonts are embedded as data URIs, with CSS + SMIL only and no JavaScript, `foreignObject`, or external runtime assets.
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
-## Hero
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Kulkarni!;" />
+</h1>
 
-![Aditya Kulkarni hero](assets/hero.svg?v=1)
+<h3 align="center"><b>A passionate Frontend Developer from India</b></h3>
 
-## About + Life
+<br/>
 
-![About and life](assets/about-life.svg?v=1)
+<div align="center">
+🔭 I’m currently working on <b>MERN stack projects</b>
+<br/>
+<br />
+🌱 I’m currently learning <b>Redux, Firebase, and improving my MERN stack skills</b>
+<br/>
+<br />
 
-## Stack
+ 💬 Ask me about <b>React</b>, <b>JavaScript</b>, <b>MongoDB</b>... or anything
+<br/>
+<br />
 
-![Tech stack](assets/stack.svg?v=1)
+ ⚡YouTube channel <b>LinkedIn Tips</b> | <b>Internship Tips</b>| <b>Dev Resources</b>| <b>Interview Experiences</b>
+</div>
 
-## ID Dashboard
+<div align="center"> 
+  <a href="mailto:adityakulkarni023@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-kulkarni23/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://adityafolio023.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@AdityaKulkarni23" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</div>
 
-![ID dashboard](assets/id-dashboard.svg?v=1)
+<hr/>
 
-## Connect
+<h2 align="center"><b>⚒️ Languages-Frameworks-Tools ⚒️</b></h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,npm" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,mysql" /><br>
+</div>
+<br/>
+<hr/>
 
-![Connect with Aditya](assets/connect.svg?v=1)
+<div align="center">
+<h2>🔥 <b>Igniting My GitHub Spark!</b>🔥</h2>
+    <picture>
+  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+</div>
+<hr/>
+<h2 align="center"><b>⚡ Streak Story ⚡</b></h2>
+<br/>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakulkarni023&theme=cobalt" alt="adityakulkarni023" /></p>
+</div>
+<hr />
+<h2 align="center"><b> 💻 Featured YouTube Videos 🎥</b></h2>
+<br/>
 
-### Socials
+<p align="center">Check out these exciting and informative videos on various tech topics! 💻🚀 From interview experiences 🗂️ to learning resources 📚 and web development tutorials 🖥️, explore and enhance your knowledge. 💡</p>
+ 
+[![ProtoTech Solutions Interview Experience | CSE 2024 | Aditya Kulkarni | Fresher](https://ytcards.demolab.com/?id=6qyIfIXwPGo&title=ProtoTech+Solutions+Interview+Experience+%7C+CSE+2024+%7C+Aditya+Kulkarni+%7C+Fresher&lang=en&timestamp=1696022400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=511 "ProtoTech Solutions Interview Experience | CSE 2024 | Aditya Kulkarni | Fresher")](https://youtu.be/6qyIfIXwPGo?si=aAJqyWGOnG5EkPuZ)
+[![Best sites for Paper Publication 2023 | Aditya Kulkarni](https://ytcards.demolab.com/?id=oatsk4e7_M4&title=Best+sites+for+Paper+Publication+2023%7C+Aditya+Kulkarni&lang=en&timestamp=1673654400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480 "Best sites for Paper Publication 2023 | Aditya Kulkarni")](https://youtu.be/oatsk4e7_M4?si=qa2miBSsvwklFJVO)
+[![Top 3 YouTube Channels to Learn JavaScript in 2024 | Aditya Kulkarni](https://ytcards.demolab.com/?id=AifGowyFAMI&title=Top+3+YouTube+Channels+to+Learn+JavaScript+in+2024%7C+Aditya+Kulkarni&lang=en&timestamp=1673654400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480 "Top 3 YouTube Channels to Learn JavaScript in 2024 | Aditya Kulkarni")](https://youtu.be/AifGowyFAMI?si=3uAKJjkshoWVaB1G)
+[![Top 3 YouTube channels to Learn React JS in 2024 | Aditya Kulkarni](https://ytcards.demolab.com/?id=DSvKDECxNd4&title=Top+3+YouTube+channels+to+Learn+React+JS+in+2024%7C+Aditya+Kulkarni&lang=en&timestamp=1673654400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480 "Top 3 YouTube channels to Learn React JS in 2024 | Aditya Kulkarni")](https://youtu.be/DSvKDECxNd4?si=zLgptT9s5BEEK3ud)
+[![Landing Page |Oasis Infobyte internship|Task- 1 Level-1|web development and design with source code](https://ytcards.demolab.com/?id=9phKCZszquQ&title=Landing+Page+%7COasis+Infobyte+internship%7CTask-+1+Level-1%7Cweb+development+and+design+with+source+code&lang=en&timestamp=1673654400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480 "Landing Page |Oasis Infobyte internship|Task- 1 Level-1|web development and design with source code")](https://youtu.be/9phKCZszquQ?si=Flyp8MwCwu0T9Ub1)
+[![How to add Github account link to LinkedIn profile 2023 | Aditya Kulkarni](https://ytcards.demolab.com/?id=n96IV3O5TEU&title=How+to+add+Github+account+link+to+LinkedIn+profile+2023%7CAditya+Kulkarni&lang=en&timestamp=1673654400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480 "How to add Github account link to LinkedIn profile 2023 | Aditya Kulkarni")](https://youtu.be/n96IV3O5TEU?si=4tjs3oqLsw3SFe7v)
+ 
+<hr />
+<b>P.S.</b>Check out my other tech videos on YouTube for more tutorials and insights! 🎥💻 [YT Channel](https://www.youtube.com/@AdityaKulkarni23)! 😊
 
-- [GitHub — @AdityaKulkarni023](https://github.com/AdityaKulkarni023)
-- [LinkedIn — Aditya Kulkarni](https://www.linkedin.com/in/aditya-kulkarni23)
-- [YouTube — @AdityaKulkarni23](https://www.youtube.com/@AdityaKulkarni23)
-- [Instagram — @reellifewithadi](https://www.instagram.com/reellifewithadi)
 
-## Selected projects
 
-| Project | What I built | Stack |
-|---|---|---|
-| **UNIFI** | Exception Reporting for unmapped records / missing feeds, plus weekly GL Posting with date-range aggregation, validation, audit traceability and duplicate-posting controls. | React, Redux Toolkit, Node.js, Express, Sequelize, PostgreSQL, Elasticsearch, AWS |
-| **Fashion Store** | E-commerce experience with authentication, cart, wishlist and secure checkout, optimized for responsive cross-browser use and Netlify deployment. | React.js, Firebase, Netlify |
-| **Voting Application** | Secure full-stack voting system with JWT authentication, RBAC, REST APIs, real-time vote tallying and accurate result displays. | React, Node.js, Express, JWT, MongoDB/PostgreSQL |
 
-## GitHub snapshot
 
-As verified on **6 October 2026**, the supplied GitHub profile shows **29 public repositories, 1 follower, 0 following and 0 stars**. Its visible popular repositories include `OIBGRIP`, `CodeClause_Timer_and_Stopwatch`, `OIBGRIP-TASK2`, `AdityaKulkarni023`, `Digital-clock`, and `To-Do-List`.
 
-## Notes
-
-- Unknown or unverified counts are intentionally omitted.
-- The supplied portrait PNGs are embedded byte-for-byte; their alpha channels are not flattened or redrawn.
-- SVGs are designed to remain legible when GitHub scales them to narrow/mobile widths.
-
-## Font + icon licensing
-
-See [`fonts/FONT-SOURCES.md`](fonts/FONT-SOURCES.md), [`fonts/INTER-LICENSE.txt`](fonts/INTER-LICENSE.txt), and [`fonts/GO-FONT-LICENSE.txt`](fonts/GO-FONT-LICENSE.txt).
-
-## Files to upload
-
-For the GitHub profile repository, upload **`README.md` and the entire `assets/` folder**. The `fonts/` folder, `preview.html`, and `verification/` folder are included in the ZIP for licensing, review and local preview; the SVGs already contain their fonts and images, so GitHub does not need those source font files separately.
