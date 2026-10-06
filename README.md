@@ -10,19 +10,19 @@ A self-contained animated GitHub profile built for GitHub README width. Every SV
 
 ## About + Life
 
-![About and life](assets/about-life.svg?v=1)
+![About and life](about-life.svg?v=1)
 
 ## Stack
 
-![Tech stack](assets/stack.svg?v=1)
+![Tech stack](stack.svg?v=1)
 
 ## ID Dashboard
 
-![ID dashboard](assets/id-dashboard.svg?v=1)
+![ID dashboard](id-dashboard.svg?v=1)
 
 ## Connect
 
-![Connect with Aditya](assets/connect.svg?v=1)
+![Connect with Aditya](connect.svg?v=1)
 
 ### Socials
 
