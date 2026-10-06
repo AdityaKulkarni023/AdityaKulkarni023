@@ -6,7 +6,7 @@ A self-contained animated GitHub profile built for GitHub README width. Every SV
 
 ## Hero
 
-![Aditya Kulkarni hero](assets/hero.svg?v=1)
+![Aditya Kulkarni hero](hero.svg?v=1)
 
 ## About + Life
 
